@@ -1,1 +1,0 @@
-# AOCR2024-AI-Challenge
